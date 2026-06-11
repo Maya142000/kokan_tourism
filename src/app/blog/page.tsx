@@ -9,7 +9,7 @@ export default function AboutPage() {
     <main>
       <BlogPage />
       <Navbar />
-      <ChatBot />
+      {/* <ChatBot /> */}
     </main>
   );
 }

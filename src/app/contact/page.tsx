@@ -7,7 +7,7 @@ export default function ContactPage() {
     <main>
       <ContactSection />
       <Navbar />
-      <ChatBot />
+      {/* <ChatBot /> */}
     </main>
   );
 }

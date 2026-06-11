@@ -7,7 +7,7 @@ export default function HeavenPage() {
     <main>
       <HeavenSection />
       <Navbar />
-      <ChatBot />
+      {/* <ChatBot /> */}
     </main>
   );
 }

@@ -7,7 +7,7 @@ export default function KokanDiariesPage() {
     <main>
       <KokanDiaries />
       <Navbar />
-      <ChatBot />
+      {/* <ChatBot /> */}
     </main>
   );
 }
