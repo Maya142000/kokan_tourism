@@ -9,7 +9,7 @@ export default function Page() {
       <Preloader />
       <Home />
       <Navbar />
-      <ChatBot />
+      {/* <ChatBot /> */}
     </main>
   );
 }
